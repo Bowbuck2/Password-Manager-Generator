@@ -1,0 +1,14 @@
+[
+    {
+        "username": "JohnDoe",
+        "password": "1234",
+        "passwords": [
+            {
+                "username": "JohnDoe",
+                "password": "wcVY)b$L0W*dH[*v3SIu",
+                "website": "Youtube",
+                "description": "Video Streaming Service"
+            }
+        ]
+    }
+]
